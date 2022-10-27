@@ -1,0 +1,12 @@
+User stories for inventory tracking website
+
+1. As a marketer, I want deals and discounts to be clearly visible to all users upon first loading the website so that our deals can be seen by a larger audience
+2. As a website visitor, I want the website to run fast and smoothly so that I do not waste time waiting for pages to load.
+3. As a website visitor, I want the website to have an intuitive UI so that I can find what I need quickly.
+4. As a store manager, I want to maximize the amount of products shown on screen so that users will be enticed to view/buy more products.
+5. As a website visitor, I want accurate inventory numbers and locations for products so that I am not misled about product availability.
+6. As a website viewer, I want a GUI that doesn’t contain highly-contrasting colors, so that my eyes do not get strained after prolonged browsing.
+7. As a store manager, I want highly-visible notifications on low stock products so that I am made aware of product shortages without having to search.
+8. As a store manager, I want to be able to adjust the amount of product that triggers a “low stock” notification, so that I can tailor the low stock notifications around the specific product and its individual turnover rate.
+9. As a website visitor, I want the ability to search for specific products so that I can easily find the items that I am looking for.
+10. As a vendor for the store, I want the ability to set product descriptions for the product, so that customers know what exactly we are selling before they buy.
